@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 30px;
+  font-family: helvetica, arial, sans-serif;
+}
+
+code {
+  display: inline-block;
+  padding: 5px;
+  border-radius: 3px;
+  color: #c80000;
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Timestamp microservice</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <p>Send get request to <code>https://bow-passenger.gomix.com/api/timestamp/<em>{dataTime}</em></code></p>
+
+  <h3>Example usage</h3>
+
+  <pre>https://bow-passenger.gomix.me/December%2015,%202015</pre>
+
+  <p>Or</p>
+
+  <pre>https://bow-passenger.gomix.me/1450137600</pre>
+
+  <h3>Example output</h3>
+
+  <pre>
+    {
+      "unix": 1450137600,
+      "natural": "December 15, 2015"
+    }
+  </pre>
+</body>
+</html>
