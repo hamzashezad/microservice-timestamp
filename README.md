@@ -9,7 +9,7 @@ Timestamp Microservice (FCC API Project)
 
 Or
 
-`<pre>https://bow-passenger.gomix.me/1450137600`
+`https://bow-passenger.gomix.me/1450137600`
 
 #### Example output
 
